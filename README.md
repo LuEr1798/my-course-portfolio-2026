@@ -5,7 +5,7 @@ Welcome to my academic portfolio for CEP146 - Computing for Programmers!
 ## About Me
 - Name: Luis Morales
 - Major: CPP
-- Year: fIRST Year
+- Year: 
 - Favorite Programming Language: JavaScript
 
 ## Course Goals
